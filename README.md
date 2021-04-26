@@ -3,25 +3,23 @@ Pakistan.txt Directory Is for Pakistani FB Accounts
 
 Worldlist.txt Directory is for All Countries
 
-pkg update
+$ pkg update && pkg upgrade
 
-pkg upgrade
+$ pkg install python
 
-pkg install python
+$ pkg install python2
 
-pkg install python2
+$ pkg install git
 
-pkg install git
+$ pip2 install requests
 
-pip2 install requests
+$ pip2 install mechanize
 
-pip2 install mechanize
+$ git clone https://github.com/MindhackerMian/HackFb
 
-git clone https://github.com/hearthackerBabar/TargetFB
+$ cd HackFb
 
-cd TargetFB
-
-python2 Hacking.py
+$ python2 Hacking.py
 
 Pakistani Accounts Directory : Pakistan.txt
 
