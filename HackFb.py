@@ -23,7 +23,7 @@ print """
 \033[1;31m██║░░██║██║░░██║╚█████╔╝██║░╚██╗██║██║░╚███║╚██████╔╝
 \033[1;31m╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░
 \033[1;97m           [⚡\033[1;97mAuthor Name: Mian Labib    ⚡\033[1;97m]
-\033[1;97m           [⚡\033[1;97mPhone Numbr: +923144611495 ⚡\033[1;97m]
+\033[1;97m           [⚡\033[1;97mPhone Numbr:+923144611495  ⚡\033[1;97m]
 \033[1;97m           [⚡\033[1;97mYutube Chnl: Mind Hacker   ⚡\033[1;97m]
 \033[1;97m           [⚡       \033[1;97mFrom: Pakistan      ⚡\033[1;97m]
 
@@ -76,7 +76,7 @@ for password in wordlist:
             exit()
 
 time.sleep(1)
-print 'Sorry, none of the passswords in your wordlist is right.'
+print 'Sorry, none of the passswords in your wordlist is right, Thanks for using this tool for more info follow on instagram @mindhacker'
 time.sleep(0.8)
 dos.close()
 os.system('rm Facebook-Log.txt || del Facebook-Log.txt')
