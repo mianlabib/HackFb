@@ -1,4 +1,6 @@
 # HackFb
+Pakistan.txt Directory Is for Pakistani FB Accounts
+
 Worldlist.txt Directory is for All Countries
 
 pkg update
@@ -15,9 +17,9 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/MindhackerMian/HackFb
+git clone https://github.com/hearthackerBabar/TargetFB
 
-cd Hackfb
+cd TargetFB
 
 python2 Hacking.py
 
