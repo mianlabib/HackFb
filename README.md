@@ -1,15 +1,15 @@
 # HackFb
-Pakistan.txt Directory Is for Pakistani FB Accounts
+Passwords.txt Directory Is for Pakistani FB Accounts
 
 Worldlist.txt Directory is for All Countries
 
-$ pkg update && pkg upgrade
+$ apt update && apt upgrade
 
-$ pkg install python
+$ apt install python
 
-$ pkg install python2
+$ apt install python2
 
-$ pkg install git
+$ apt install git
 
 $ pip2 install requests
 
@@ -19,8 +19,8 @@ $ git clone https://github.com/MindhackerMian/HackFb
 
 $ cd HackFb
 
-$ python2 Hacking.py
+$ python2 Hack.py
 
-Pakistani Accounts Directory : Pakistan.txt
+Pakistani Accounts Directory : Paswords.txt
 
 All World Cracking Passwords Directory : Worldlist.txt
