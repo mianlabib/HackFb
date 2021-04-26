@@ -19,6 +19,6 @@ $ git clone https://github.com/MindhackerMian/HackFb
 
 $ cd HackFb
 
-$ python2 Hack.py
+$ python2 HackFb.py
 
 If You Face Any Issue Contact Me on Instagram @mindhacker
