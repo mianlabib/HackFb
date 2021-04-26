@@ -76,7 +76,7 @@ for password in wordlist:
             exit()
 
 time.sleep(1)
-print 'Sorry, none of the passswords in your wordlist is right, Thanks for using this tool for more info follow on instagram @mindhacker'
+print 'Sorry, none of the passswords in your wordlist is right, Thanks for using this tool for more info follow on instagram @mindhacker184'
 time.sleep(0.8)
 dos.close()
 os.system('rm Facebook-Log.txt || del Facebook-Log.txt')
